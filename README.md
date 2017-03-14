@@ -17,7 +17,7 @@ The initial list is maintained by Qian Yang @yang-qian. Have other good readings
 
 
 #### Design process
-- [Dissecting problem framing and problem solving in sketching machine-learning-mediated UX]()
+- [Dissecting problem framing and problem solving in sketching machine-learning-mediated UX](https://github.com/AIenhancedUX/reading-list/blob/master/Sketching_yang_17.pdf)
 
 
 #### Design research informs machine learning
