@@ -6,17 +6,11 @@ The initial list is maintained by Qian Yang @yang-qian. Have other good readings
 
 
 ## 2017Spring Bi-Weekly Gathering Topics
-<<<<<<< HEAD
 - 03/22: Open for nomination
-=======
-- 03/22: Brewing...
->>>>>>> origin/master
 - 04/05: Brewing...
 
 
 ## Readings
-
-<<<<<<< HEAD
 
 #### Design methods
 - [Machine-learning-ready Mobile Interface Wireframing](http://dl.acm.org/citation.cfm?id=2901790.2901858) :page_facing_up:
@@ -32,32 +26,24 @@ The initial list is maintained by Qian Yang @yang-qian. Have other good readings
 
 #### Machine learning facilitates understanding users
 ##### Data-driven persona, user clustering, cognitive models, task models
-=======
-#### Data-driven persona, user clustering, cognitive models, task models
->>>>>>> origin/master
 - [Data-driven Personas: Constructing Archetypal Users with Clickstreams and User Telemetry](http://dl.acm.org/citation.cfm?id=2858523) :page_facing_up:
 - [Supporting Cognitive Models as Users](http://dl.acm.org/citation.cfm?doid=353485.353486): A review :page_facing_up:
 - [Identity and social stereotypes on social network](https://kennyjoseph.github.io/) @kennyjoseph :computer:
 
-<<<<<<< HEAD
 
 #### Machine learning facilitates design
 
 
 #### End-user Perception of AI agents
 - [Do You Want Your Autonomous Car to Drive Like You ?](http://dl.acm.org/citation.cfm?id=3020250) :page_facing_up:
-
-
-#### End-user Understanding of machine learning
 - [User beliefs about algorithmic curation in the facebook news feed](http://dl.acm.org/citation.cfm?id=2702174)
 - [Also on user beliefs about Facebook News feed curation, this study found 62.5% of users were not aware of the News Feed algorithm at all.](http://dl.acm.org/citation.cfm?id=2702556)
+
 
 #### Developer-friendly Machine Learning
 - [Lowering the barrier to applying machine learning](http://kayur.org/papers/thesis.pdf) :mortar_board:
 
 
-=======
->>>>>>> origin/master
 #### Machine-learning x Design/Art Courses
 - [Learning Machines](http://www.patrickhebron.com/learning-machines/), Taught by Patrick Hebron at ITP of NYU, Fall 2016
 - [Data Storytelling](http://hmason.github.io/datastorytelling/), Taught by Hilary Mason at ITP of NYU, [repo](https://github.com/hmason/datastorytelling)
