@@ -4,13 +4,19 @@ This is a curated list of articles: academic papers :mortar_board:, practice-foc
 The initial list is maintained by Qian Yang @yang-qian. Have other good readings in mind? join us and contribute! Please send your suggestions to :mailbox:qyang1@cs.cmu.edu.
 
 
+
 ## 2017Spring Bi-Weekly Gathering Topics
+<<<<<<< HEAD
 - 03/22: Open for nomination
+=======
+- 03/22: Brewing...
+>>>>>>> origin/master
 - 04/05: Brewing...
 
 
 ## Readings
 
+<<<<<<< HEAD
 
 #### Design methods
 - [Machine-learning-ready Mobile Interface Wireframing](http://dl.acm.org/citation.cfm?id=2901790.2901858) :page_facing_up:
@@ -26,10 +32,14 @@ The initial list is maintained by Qian Yang @yang-qian. Have other good readings
 
 #### Machine learning facilitates understanding users
 ##### Data-driven persona, user clustering, cognitive models, task models
+=======
+#### Data-driven persona, user clustering, cognitive models, task models
+>>>>>>> origin/master
 - [Data-driven Personas: Constructing Archetypal Users with Clickstreams and User Telemetry](http://dl.acm.org/citation.cfm?id=2858523) :page_facing_up:
 - [Supporting Cognitive Models as Users](http://dl.acm.org/citation.cfm?doid=353485.353486): A review :page_facing_up:
 - [Identity and social stereotypes on social network](https://kennyjoseph.github.io/) @kennyjoseph :computer:
 
+<<<<<<< HEAD
 
 #### Machine learning facilitates design
 
@@ -46,6 +56,8 @@ The initial list is maintained by Qian Yang @yang-qian. Have other good readings
 - [Lowering the barrier to applying machine learning](http://kayur.org/papers/thesis.pdf) :mortar_board:
 
 
+=======
+>>>>>>> origin/master
 #### Machine-learning x Design/Art Courses
 - [Learning Machines](http://www.patrickhebron.com/learning-machines/), Taught by Patrick Hebron at ITP of NYU, Fall 2016
 - [Data Storytelling](http://hmason.github.io/datastorytelling/), Taught by Hilary Mason at ITP of NYU, [repo](https://github.com/hmason/datastorytelling)
