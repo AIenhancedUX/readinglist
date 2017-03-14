@@ -3,17 +3,20 @@ This is a curated list of articles: academic papers :mortar_board:, practice-foc
 
 The initial list is curated by Qian Yang @yang-qian :mailbox:qyang1@cs.cmu.edu
 
+
 ## 2017Spring Bi-Weekly Gathering Topics
-Brewing...
+- 03/22: Brewing...
+- 04/05: Brewing...
+
 
 ## Readings
 
-### Data-driven persona, user clustering, cognitive models, task models
+#### Data-driven persona, user clustering, cognitive models, task models
 - [Data-driven Personas: Constructing Archetypal Users with Clickstreams and User Telemetry](http://dl.acm.org/citation.cfm?id=2858523) :page_facing_up:
 - [Supporting Cognitive Models as Users](http://dl.acm.org/citation.cfm?doid=353485.353486): A review :page_facing_up:
 - [Identity and social stereotypes on social network](https://kennyjoseph.github.io/) @kennyjoseph :computer:
 
-### Machine-learning x Design/Art Courses
+#### Machine-learning x Design/Art Courses
 - [Learning Machines](http://www.patrickhebron.com/learning-machines/), Taught by Patrick Hebron at ITP of NYU, Fall 2016
 - [Data Storytelling](http://hmason.github.io/datastorytelling/), Taught by Hilary Mason at ITP of NYU, [repo](https://github.com/hmason/datastorytelling)
 - [Machine Learning for Musicians and Artists](https://www.kadenze.com/courses/machine-learning-for-musicians-and-artists/info), Taught by Rebecca Fiebrink from Goldsmiths University of London on kadenze
