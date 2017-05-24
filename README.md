@@ -50,7 +50,12 @@ The initial list is maintained by Qian Yang @yang-qian. Have other good readings
 
 
 #### Machine-learning x Design/Art Courses
+- [Designing A.I.](https://medium.com/designing-ai-spring2017), Taught by David Young at Parsons, Spring 2017.
 - [Learning Machines](http://www.patrickhebron.com/learning-machines/), Taught by Patrick Hebron at ITP of NYU, Fall 2016
 - [Data Storytelling](http://hmason.github.io/datastorytelling/), Taught by Hilary Mason at ITP of NYU, [repo](https://github.com/hmason/datastorytelling)
+<<<<<<< HEAD
 - [Machine Learning for Artists](http://ml4a.github.io/index/)
+=======
+- [Internet of Enlightened Things](https://canvas.instructure.com/courses/1111888), Taught by Phil van Allen and Ben Hooker at ArtCenter. It includes a project assignment called ['Useless AI'](https://canvas.instructure.com/courses/1111888/assignments/5911856) that I found fasinating.
+>>>>>>> origin/master
 - [Machine Learning for Musicians and Artists](https://www.kadenze.com/courses/machine-learning-for-musicians-and-artists/info), Taught by Rebecca Fiebrink from Goldsmiths University of London on kadenze
